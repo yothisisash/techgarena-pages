@@ -2,4 +2,4 @@
 
 Public deployment bundle for the Prophecy prediction experience.
 
-The development pipeline, training data, and private repository history are intentionally excluded. The match video is loaded from the `DemoVideo` release asset.
+The development pipeline, training data, and private repository history are intentionally excluded. The match video is loaded from the `demovideo` release asset.
